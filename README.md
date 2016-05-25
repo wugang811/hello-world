@@ -1,2 +1,3 @@
 # hello-world
-Just repository
+Hi Humans!
+I want to learn HTML5 and js.
